@@ -1,0 +1,23 @@
+#result {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+}
+
+#quote {
+    font-size: 2em;
+    font-weight: 800;
+    text-align: center;
+}
+
+#author {
+    background-color: crimson;
+    font-size: 24px;
+    font-weight: 600;
+    color: white;
+    padding: 8px 16px;
+    display: none;
+}
+
